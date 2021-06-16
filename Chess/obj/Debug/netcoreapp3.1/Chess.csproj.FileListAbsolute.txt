@@ -1,0 +1,9 @@
+C:\Users\arrow\source\repos\Chess\Chess\obj\Debug\netcoreapp3.1\Chess.csprojAssemblyReference.cache
+C:\Users\arrow\source\repos\Chess\Chess\obj\Debug\netcoreapp3.1\Chess.AssemblyInfoInputs.cache
+C:\Users\arrow\source\repos\Chess\Chess\obj\Debug\netcoreapp3.1\Chess.AssemblyInfo.cs
+C:\Users\arrow\source\repos\Chess\Chess\obj\Debug\netcoreapp3.1\Chess.csproj.CoreCompileInputs.cache
+C:\Users\arrow\source\repos\Chess\Chess\bin\Debug\netcoreapp3.1\Chess.deps.json
+C:\Users\arrow\source\repos\Chess\Chess\bin\Debug\netcoreapp3.1\Chess.dll
+C:\Users\arrow\source\repos\Chess\Chess\bin\Debug\netcoreapp3.1\Chess.pdb
+C:\Users\arrow\source\repos\Chess\Chess\obj\Debug\netcoreapp3.1\Chess.dll
+C:\Users\arrow\source\repos\Chess\Chess\obj\Debug\netcoreapp3.1\Chess.pdb
